@@ -44,7 +44,7 @@ class HomeViewController: UIViewController {
     
     private let decimalSeparator = Locale.current.decimalSeparator
     private let maxLength = 9
-    private let totalTotal = "total"
+    private let totalTotal = "Total"
 //    private let maxValue = 999999999
 //    private let minValue = 0.00000001
     
