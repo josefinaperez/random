@@ -24,7 +24,7 @@ class InicioViewController: UIViewController {
         txtField.delegate = self
         
         self.title = "inicio"
-        view.backgroundColor = .red
+        view.backgroundColor = .blue
     }
     
     func getVideoss(id: String){
