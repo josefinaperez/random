@@ -23,6 +23,7 @@ class InicioViewController: UIViewController {
         txtField.placeholder = "fill me..."
         txtField.delegate = self
         
+        self.title = "inicio"
     }
     
     func getVideoss(id: String){
